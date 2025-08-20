@@ -1,5 +1,5 @@
 # FEMarbitraryStiffnessMatrixGenerator
-Automatically generates stiffness matrices for FEA springs models in series and parallel
+Automatically generates stiffness matrices for FEA spring model assemblies in series and parallel
 
 Copyright Nadeem Elahi 
 
